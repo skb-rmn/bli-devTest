@@ -15,20 +15,20 @@ public class PlayerList : MonoBehaviour
     {
         ClearListContent();
 
-        _playerList.Add(new PlayerData { Name = "Shakib Al Hasan", Age = 24, Type = "All-rounder" });
-        _playerList.Add(new PlayerData { Name = "QAz", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "Binod", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "xzc", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "AdfsSD", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "hjgh", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "jhghg", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "trty", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "vbnbnv", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "vbjnmmh", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "nmbmnbm", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "trytryu", Age = 24, Type = "Batsman" });
-        _playerList.Add(new PlayerData { Name = "oippopo", Age = 24, Type = "Batsman" });
-        //_playerList = Util.Instance.LoadData();
+        //_playerList.Add(new PlayerData { Name = "Shakib Al Hasan", Age = 24, Type = "All-rounder" });
+        //_playerList.Add(new PlayerData { Name = "QAz", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "Binod", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "xzc", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "AdfsSD", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "hjgh", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "jhghg", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "trty", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "vbnbnv", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "vbjnmmh", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "nmbmnbm", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "trytryu", Age = 24, Type = "Batsman" });
+        //_playerList.Add(new PlayerData { Name = "oippopo", Age = 24, Type = "Batsman" });
+        _playerList = Util.Instance.LoadData();
         LoadDataFromList();
     }
 

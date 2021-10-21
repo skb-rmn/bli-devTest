@@ -66,16 +66,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: Shakib al Hasan
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f4df082786bd8d145bd32d5a24adbbdc, type: 2}
-  m_sharedMaterial: {fileID: -4249668970681249399, guid: f4df082786bd8d145bd32d5a24adbbdc,
+  m_fontAsset: {fileID: 11400000, guid: ef9010747605e5e41b47082e56a9f175, type: 2}
+  m_sharedMaterial: {fileID: -4249668970681249399, guid: ef9010747605e5e41b47082e56a9f175,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -200,16 +200,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: All-rounder
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f4df082786bd8d145bd32d5a24adbbdc, type: 2}
-  m_sharedMaterial: {fileID: -4249668970681249399, guid: f4df082786bd8d145bd32d5a24adbbdc,
+  m_fontAsset: {fileID: 11400000, guid: ef9010747605e5e41b47082e56a9f175, type: 2}
+  m_sharedMaterial: {fileID: -4249668970681249399, guid: ef9010747605e5e41b47082e56a9f175,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -334,16 +334,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: 27 Years
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f4df082786bd8d145bd32d5a24adbbdc, type: 2}
-  m_sharedMaterial: {fileID: -4249668970681249399, guid: f4df082786bd8d145bd32d5a24adbbdc,
+  m_fontAsset: {fileID: 11400000, guid: ef9010747605e5e41b47082e56a9f175, type: 2}
+  m_sharedMaterial: {fileID: -4249668970681249399, guid: ef9010747605e5e41b47082e56a9f175,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

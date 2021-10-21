@@ -99,7 +99,7 @@ public class PlayerList : MonoBehaviour
         }
         else
         {
-            Util.Instance.ResetData();
+            Util.Instance.DeleteData();
         }
     }
     public void SaveToFile()

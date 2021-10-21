@@ -37,4 +37,4 @@ sysinfo.txt
 *.unitypackage
 
 # Extra
-#/Assets/ExternalResources/*
+/Assets/_External/*

@@ -80,6 +80,7 @@ public class PlayerAdd : MonoBehaviour
             _playerList.AddPlayer(_playerData);
             _playerList.AddItemToListView(_playerData);
             _textStatus.text = "Player Added Successfully!";
+            ResetData();
         }
     }
 }
